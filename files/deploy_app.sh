@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  This is a test of the emergency broadcast system. This is only a test.
+  This is a test of the emergency broadcast system. This is only a test. FOr REALZ!
   <!-- END -->
   
   </div>
